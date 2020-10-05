@@ -9,4 +9,6 @@ function destructivelyUpdateDriverWithKeyAndValue() {
   
 }
 
-function 
+function destructivelyDeleteFromDriverByKey() {
+  
+}
